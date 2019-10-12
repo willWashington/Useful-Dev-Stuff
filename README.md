@@ -1,4 +1,8 @@
-# Useful-Web-Dev-Stuff
+# Welcome to Useful Dev Stuff
+  ## Please be sure to take a look at the various files that are associated with this project. There's useful stuff here.
+
+
+# BEGIN USEFUL WEB DEV STUFF
 Stuff that is useful in web dev that's hard to keep up with because billions of bookmarks.
 
 ## Tools-:
@@ -25,3 +29,4 @@ Stuff that is useful in web dev that's hard to keep up with because billions of 
   https://codepen.io/joshuajcollinsworth/pen/obbvYQ
 
 
+# END USEFUL WEB DEV STUFF
