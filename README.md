@@ -12,6 +12,9 @@ Stuff that is useful in web dev that's hard to keep up with because billions of 
 
 #### Gloomap Web Outlining:
   https://www.gloomaps.com/
+  
+#### Google Charts:
+  https://developers.google.com/chart/interactive/docs/quick_start
 
 
 
